@@ -1,7 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
-
 It will create .git file which keeps all my directory metadata
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-
 Staging are will let me control which file I want to commit,
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can add file that I want to commit on the staging area without worrying about the other changes I made on other files
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I need to add special feature to my program, This will help not breaking my original program
